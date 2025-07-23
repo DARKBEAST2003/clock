@@ -35,8 +35,6 @@ body {
     width: 7.5px;
     height: 56.25px;
     background: rgba(0, 0, 0, .5);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
     transform-origin: bottom center;
     border-radius: 3px;
     position: absolute;
@@ -51,8 +49,6 @@ body {
     width: 3.75px;
     height: 73.125px;
     background: rgba(0, 0, 255, .5);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
     transform-origin: bottom center;
     border-radius: 3px;
     position: absolute;
@@ -68,8 +64,6 @@ body {
     width: 1.875px;
     height: 90px;
     background: rgba(255, 0, 0, .5);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
     transform-origin: bottom center;
     border-radius: 3px;
     position: absolute;
